@@ -57,8 +57,11 @@ These worksets can be used to address questions of canonicity and representative
 
 While rights status of Hathitrust volumes often requires converting the full-text of a workinto a non-consumptive bag-of-words model (retaining words and their frequencies but  disregarding original word order and location), this approach continues to yield significant results for computational studies of culture. There are already a significant number of studies that could serve as precedents for Hispanic studies scholars seeking to use a DH approach to literature. A quick glance at the contrast between texts and writers who have received inordinate amounts of attention versus what one could call, paraphrasing Franco Moretti,[^4]  the “great Spanish American unread,” suggests, among other projects, the possibility of studying similarities among canonical works, contrasting the distinctive character of their literary language with those works that are almost unknown, even to specialists in the field.
 
-#Reference:
-<div style="padding:3em; text-indent:-3em;">Coll, Edna. <em>Índice informativo de la novela hispanoamericana</em>. Vols 1-5. San Juan, Puerto Rico: Editorial Universitaria, 1974.</div>
+# References:
+<div style="padding:3em; text-indent:-3em;">
+Coll, Edna. <em>Índice informativo de la novela hispanoamericana</em>. Vols 1-5. San Juan, Puerto Rico: Editorial Universitaria, 1974.<br>
+“Enciclopedia de la literatura en Mexico.” <a href="http://www.elem.net">http://www.elem.net</a>
+</div>
 <br>
 <div style="padding:3em; text-indent:-3em;">“Enciclopedia de la literatura en Mexico.” <a href="http://www.elem.net">http://www.elem.net</a></div>
 
