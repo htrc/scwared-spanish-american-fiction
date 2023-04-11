@@ -57,53 +57,51 @@ These worksets can be used to address questions of canonicity and representative
 
 While rights status of Hathitrust volumes often requires converting the full-text of a workinto a non-consumptive bag-of-words model (retaining words and their frequencies but  disregarding original word order and location), this approach continues to yield significant results for computational studies of culture. There are already a significant number of studies that could serve as precedents for Hispanic studies scholars seeking to use a DH approach to literature. A quick glance at the contrast between texts and writers who have received inordinate amounts of attention versus what one could call, paraphrasing Franco Moretti,[^4]  the “great Spanish American unread,” suggests, among other projects, the possibility of studying similarities among canonical works, contrasting the distinctive character of their literary language with those works that are almost unknown, even to specialists in the field.
 
-# References:
-<div style="padding:3em; text-indent:-3em;">
-Coll, Edna. <em>Índice informativo de la novela hispanoamericana</em>. Vols 1-5. San Juan, Puerto Rico: Editorial Universitaria, 1974.<br>
-“Enciclopedia de la literatura en Mexico.” <a href="http://www.elem.net">http://www.elem.net</a>
-</div>
-<br>
-<div style="padding:3em; text-indent:-3em;">“Enciclopedia de la literatura en Mexico.” <a href="http://www.elem.net">http://www.elem.net</a></div>
+# Selected Bibliography
+Coll, Edna. *Índice informativo de la novela hispanoamericana*. Vols 1-5. San Juan, Puerto Rico: Editorial Universitaria, 1974.
 
-<div style="padding:3em; text-indent:-3em;">Escobar Mesa, Augusto. “Cronología y bibliografia de la novelística sobre la Violencia (1949-1967)” in <em>Ensayos y aproximaciones a la otra literatura colombiana</em>.  Santafé de Bogotá : Fundación 	Universidad Central, 1997. pp. 332-338.</div>
+“Enciclopedia de la literatura en Mexico.” (http://www.elem.net)[http://www.elem.net]
 
-<div style="padding:3em; text-indent:-3em;">Goic, Cedomil. “Bibliografía de la novela chilena del siglo XX.” Boletín de Filología de la Universidad   de Chile. No. 14 (1962). pp. 51-168.</div>
+Escobar Mesa, Augusto. “Cronología y bibliografia de la novelística sobre la Violencia (1949-1967)” in *Ensayos y aproximaciones a la otra literatura colombiana*.  Santafé de Bogotá: Fundación Universidad Central, 1997. pp. 332-338.
 
-<div style="padding:3em; text-indent:-3em;">González, Aníbal. <em>A Companion to Spanish American Modernismo</em>. Woodbrige: Tamesis. 2007.</div>
+Goic, Cedomil. “Bibliografía de la novela chilena del siglo XX.” *Boletín de Filología de la Universidad de Chile*. No. 14 (1962). pp. 51-168.
 
-<div style="padding:3em; text-indent:-3em;">González Echevarría, Roberto and Enrique Pupo-Walker. <em>The Cambridge History of Latin American Literature</em>. Cambridge: Cambridge University Press, 1996.</div>
+González, Aníbal. *A Companion to Spanish American Modernismo*. Woodbrige: Tamesis. 2007.
 
-<div style="padding:3em; text-indent:-3em;">Lichtblau, Myron I. <em>The Argentine Novel. An Annotated Bibliography</em>, Scarecrow Press, 1997.</div>
+González Echevarría, Roberto and Enrique Pupo-Walker. *The Cambridge History of Latin American Literature*. Cambridge: Cambridge University Press, 1996.
 
-<div style="padding:3em; text-indent:-3em;">“Literatura del narco” in <a href="https://es.wikipedia.org/wiki/Literatura_del_narco">https://es.wikipedia.org/wiki/Literatura_del_narco</a>.</div>
+Lichtblau, Myron I. *The Argentine Novel. An Annotated Bibliography*, Scarecrow Press, 1997.
 
-<div style="padding:3em; text-indent:-3em;">Mejías-López, Alejandro, “La novela modernista hispanoamericana: definición y estudio de sus inicios.” The University of Michigan, 1995.</div>
+“Literatura del narco” in (https://es.wikipedia.org/wiki/Literatura_del_narco)[https://es.wikipedia.org/wiki/Literatura_del_narco].
 
-<div style="padding:3em; text-indent:-3em;">Meléndez,Concha. <em>La novela indianista en Hispanoamérica (1832-1889)</em>, Río Piedras, 1961.  Universidad de Puerto Rico.</div>
+Mejías-López, Alejandro, “La novela modernista hispanoamericana: definición y estudio de sus inicios.” The University of Michigan, 1995.
 
-<div style="padding:3em; text-indent:-3em;">Mena, Lucila Inés. “Bibliografía Anotada Sobre el Ciclo de la Violencia en la Literatura Colombiana.” <em>Latin American Research Review</em>, 13, 3, 1978, 95-107. </div>
+Meléndez,Concha. *La novela indianista en Hispanoamérica (1832-1889)*, Río Piedras, 1961.  Universidad de Puerto Rico.
 
-<div style="padding:3em; text-indent:-3em;">Mesa, Augusto Escobar. “Cronología y bibliografia de la novelística sobre la Violencia (1949-1967)”, <em>Ensayos y aproximaciones a la otra literatura colombiana</em>. Santafé de Bogotá: Fundación  Universidad Central, 1997. pp. 332-338.</div>
+Mena, Lucila Inés. “Bibliografía Anotada Sobre el Ciclo de la Violencia en la Literatura Colombiana.” *Latin American Research Review*, 13, 3, 1978, 95-107.
 
-<div style="padding:3em; text-indent:-3em;">Osorio, Oscar. <em>El narcotráfico en la novela colombiana</em>. Cali : Programa Editorial Universidad del Valle, 2014. </div>
+Mesa, Augusto Escobar. “Cronología y bibliografia de la novelística sobre la Violencia (1949-1967)”, *Ensayos y aproximaciones a la otra literatura colombiana*. Santafé de Bogotá: Fundación  Universidad Central, 1997. pp. 332-338.
 
-<div style="padding:3em; text-indent:-3em;">Paz Soldán, Alba María. “Indice de la novela boliviana (1931-1978).”  <em>Revista Iberoamericana</em>. Vol. LII, Núm. 134, Enero-Marzo 1986.</div>
+Osorio, Oscar. *El narcotráfico en la novela colombiana*. Cali : Programa Editorial Universidad del Valle, 2014.
 
-<div style="padding:3em; text-indent:-3em;">Pineda Botero, Álvaro, Sandra Isabel Pérez, María Del Carmen Rosero, María Graciela Calle.  “Bibliografía De La Novela Colombiana.” Departamento de Humanidades. Grupo de Estudios Culturales. La Novela Colombiana Contemporánea. Universidad Eafit, 2003.</div>
+Paz Soldán, Alba María. “Indice de la novela boliviana (1931-1978).” *Revista Iberoamericana*. Vol. LII, Núm. 134, Enero-Marzo 1986.
 
-<div style="padding:3em; text-indent:-3em;">Pope, Randolph D. “The Spanish American novel from 1950 to 1975.” <em>The Cambridge History of Latin American Literature</em>, vol 2, Edited by Roberto González Echevarría and Enrique Pupo-Walker, Cambridge UP, 1996, 226-78. </div>
+Pineda Botero, Álvaro, Sandra Isabel Pérez, María Del Carmen Rosero, María Graciela Calle.  “Bibliografía De La Novela Colombiana.” Departamento de Humanidades. Grupo de Estudios Culturales. La Novela Colombiana Contemporánea. Universidad Eafit, 2003.
 
-<div style="padding:3em; text-indent:-3em;">Prieto, René. “The literature of Indigenismo.” <em>The Cambridge History of Latin American Literature</em>, vol 2, Edited by Roberto González Echevarría and Enrique Pupo-Walker, Cambridge UP, 1996, 138-163.</div>
+Pope, Randolph D. “The Spanish American novel from 1950 to 1975.” *The Cambridge History of Latin American Literature*, vol 2, Edited by Roberto González Echevarría and Enrique Pupo-Walker, Cambridge UP, 1996, 226-78.
 
-<div style="padding:3em; text-indent:-3em;">Rama, Ángel. “El <em>boom</em> en perspectiva.” <em>La novela latinoamericana</em>. Panoramas 1920-1980. Bogotá: Colcultura, 1982, pp. 235–293.</div>
+Prieto, René. “The literature of Indigenismo.” *The Cambridge History of Latin American Literature*, vol 2, Edited by Roberto González Echevarría and Enrique Pupo-Walker, Cambridge UP, 1996, 138-163.
 
-<div style="padding:3em; text-indent:-3em;">Rodríguez-Luis, Julio. <em>Hermenéutica y praxis del indigenismo: de Clorinda Matto a José María Arguedas</em>. Mexico: Fondo de Cultura Económica, 1980.</div>
+Rama, Ángel. “El *boom* en perspectiva.” *La novela latinoamericana*. Panoramas 1920-1980. Bogotá: Colcultura, 1982, pp. 235–293.
 
-<div style="padding:3em; text-indent:-3em;">Rutheford, John . <em>An annotated bibliography of the novels of the Mexican Revolution of 1910-1917</em>. Truy, Whitston, 1972.</div>
+Rodríguez-Luis, Julio. *Hermenéutica y praxis del indigenismo: de Clorinda Matto a José María Arguedas*. Mexico: Fondo de Cultura Económica, 1980.
 
-<div style="padding:3em; text-indent:-3em;">Torres de la Rosa, Jaén Danaé. <em>Avatares editoriales de un “género”: tres décadas de la novela de la revolución mexicana</em>. Mexico: Bonilla Artigas, 2016.</div>
+Rutheford, John. *An annotated bibliography of the novels of the Mexican Revolution of 1910-1917*. Truy, Whitston, 1972.
 
-<div style="padding:3em; text-indent:-3em;">Zavala, Oswald. “Imagining the U.S.-Mexico Drug War: The Critical Limits of Narconarratives.” <em>Comparative Literature</em>, Summer 2014, Vol. 66, No. 3, pp. 340- 360.</div>
+Torres de la Rosa, Jaén Danaé. *Avatares editoriales de un “género”: tres décadas de la novela de la revolución mexicana*. Mexico: Bonilla Artigas, 2016.
+
+Zavala, Oswald. “Imagining the U.S.-Mexico Drug War: The Critical Limits of Narconarratives.” *Comparative Literature*, Summer 2014, Vol. 66, No. 3, pp. 340- 360.
+
 
 [^1]: “HathiTrust Languages.” (https://www.hathitrust.org/visualizations_languages)[https://www.hathitrust.org/visualizations_languages].
 [^2]: See Ted Underwood, “The Life-Cycle of Genres.” Journal of Cultural Analytics 1 (2016). (https://doi.org/10.22148/16.005)[https://doi.org/10.22148/16.005] and *Distant Horizons: Digital Evidence and Literary Change*. Chicago: The University of Chicago Press, 2019. Calvo’s impressive study focuses on more encompassing labels such as novel of adventures, philosophical novel, and so on. Scholars do not use these terms to describe or group texts produced in the Spanish American region. See José Calvo Tello, *The Novel in the Spanish Silver Age. A Digital Analysis of Genre Using Machine Learning*. Bielefeld University Press, 2021. (https://doi.org/10.14361/9783839459256)[https://doi.org/10.14361/9783839459256]
