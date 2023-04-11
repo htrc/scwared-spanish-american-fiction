@@ -52,11 +52,17 @@ The status of the novel of the Mexican revolution as a genre has been often ques
 
 Based on the history of the novel of the Mexican revolution genre, it would be reasonable to expect a high number of noisy labels in the data from a period where there were many competing products. As Figure 1 shows a logistic regression model has problems detecting this genre from randomly chosen volumes published between 1930 and 1950. The problem is not only with the overall accuracy of the model, which is consistently under 76% (See table 3), but also with both specificity and sesitivity. In other words, not only are some of the random volumes considered part of the genre, but also several of the books labeled as novels of the revolution received low predicted probability numbers. For many models, their ROC area under the curve, which measures how well a model is able to distinguish between different classes, is low. The misclassification visualized in this image is contrasted by the disappearance of noisy labels over the next twenty years. Figure 2 shows that the Mexican revolutionary novel is easily distinguishable from other products in the Mexican literary field of the 1950s and 1960s. This outcome is not simply the result of very few new novels being published in a dying category, but of the nationalistic discourse of the 1930s running its course. After 1950, the Mexican novel seems to be moving towards a modern, more cosmopolitan style of writing. If in its origin the novel of the Mexican revolution had problems distinguishing itself from competing products, two decades later it becomes easier to recognize its features.
 
+
 ![Detection of Mexican revolution genre from randomly chosen volumes published between 1930 and 1950](images/fig1.png)
+
 _Figure 1._
 
+
+
 ![Detection of Mexican revolution genre from randomly chosen volumes published between 1950 and 1969](images/fig2.png)
-_Figure 1._
+
+_Figure 2._
+
 
 
 | Mexican literary field | 1930-1950 | 1950-1969 | 
