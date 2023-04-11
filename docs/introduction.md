@@ -59,7 +59,7 @@ While rights status of Hathitrust volumes often requires converting the full-tex
 
 #Reference:
 <div style="padding:3em; text-indent:-3em;">Coll, Edna. <em>Índice informativo de la novela hispanoamericana</em>. Vols 1-5. San Juan, Puerto Rico: Editorial Universitaria, 1974.</div>
-
+<br>
 <div style="padding:3em; text-indent:-3em;">“Enciclopedia de la literatura en Mexico.” <a href="http://www.elem.net">http://www.elem.net</a></div>
 
 <div style="padding:3em; text-indent:-3em;">Escobar Mesa, Augusto. “Cronología y bibliografia de la novelística sobre la Violencia (1949-1967)” in <em>Ensayos y aproximaciones a la otra literatura colombiana</em>.  Santafé de Bogotá : Fundación 	Universidad Central, 1997. pp. 332-338.</div>
