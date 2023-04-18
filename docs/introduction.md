@@ -102,7 +102,7 @@ Torres de la Rosa, Jaén Danaé. *Avatares editoriales de un “género”: tres
 
 Zavala, Oswald. “Imagining the U.S.-Mexico Drug War: The Critical Limits of Narconarratives.” *Comparative Literature*, Summer 2014, Vol. 66, No. 3, pp. 340- 360.
 
-
+-----
 [^1]: “HathiTrust Languages.” [https://www.hathitrust.org/visualizations_languages](https://www.hathitrust.org/visualizations_languages).
 [^2]: See Ted Underwood, “The Life-Cycle of Genres.” Journal of Cultural Analytics 1 (2016). [https://doi.org/10.22148/16.005](https://doi.org/10.22148/16.005) and *Distant Horizons: Digital Evidence and Literary Change*. Chicago: The University of Chicago Press, 2019. Calvo’s impressive study focuses on more encompassing labels such as novel of adventures, philosophical novel, and so on. Scholars do not use these terms to describe or group texts produced in the Spanish American region. See José Calvo Tello, *The Novel in the Spanish Silver Age. A Digital Analysis of Genre Using Machine Learning*. Bielefeld University Press, 2021. [https://doi.org/10.14361/9783839459256](https://doi.org/10.14361/9783839459256)
 [^3]: Of course, there is always the possibility that someone might consider that some of the works in this set belong in any of the other six categories described in this introduction.

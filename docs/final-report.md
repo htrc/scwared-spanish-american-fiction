@@ -109,5 +109,5 @@ Underwood, Ted. *Distant Horizons*. Chicago UP, 2019.
 
 Underwood, Ted. “The Life Cycles of Genres,” *Journal of Cultural Analytics*, vol 2, no. 2, 2017.
 
-
+-----
 [^1]: Approximately the same number of features used by Underwood in the code for his second chapter of *Distant Horizons*.
