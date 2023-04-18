@@ -1,6 +1,6 @@
 [repo]: https://github.com/htrc/scwared-spanish-american-fiction "GitHub repository"
 [ht]: https://hathitrust.org "HathiTrust Digital Library"
-# Spanish American Fiction works in the [HathiTrust Digital Library](http://hathitrust.org)
+# Spanish American fiction in the [HathiTrust Digital Library](http://hathitrust.org)
 
 ## A workset curated by José Eduardo González in collaboration with the [HathiTrust Research Center](http://analytics.hathitrust.org)
 
