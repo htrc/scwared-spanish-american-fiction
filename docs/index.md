@@ -10,6 +10,7 @@ The GitHub [repository][repo], of which this site is a part, includes an introdu
 
 ## Contents
 * [Introduction](introduction.md)
+* [Introducción (español)](introducción.md)
 * [Repository][repo]
 * [Project Report](final-report.md)
 
