@@ -1,17 +1,22 @@
-README for workset directory
+README for comparative worksets directory
 
 # Introduction
-The public version of the worksets is hosted by the [HathiTrust Research Center](http://analytics.hathitrust.org/) (HTRC) at <https://analytics.hathitrust.org/worksets/biblicon/Boom%20and%20related%20texts>, <https://analytics.hathitrust.org/worksets/biblicon/Indigenismo>, <https://analytics.hathitrust.org/worksets/biblicon/Mexican%20Rev.%20Narrative%20Canon>, <https://analytics.hathitrust.org/worksets/biblicon/Modernismo%20Fiction>, <https://analytics.hathitrust.org/worksets/biblicon/Modernismo%20Novels>, <https://analytics.hathitrust.org/worksets/biblicon/Narcoliterature>, <https://analytics.hathitrust.org/worksets/biblicon/Colombia_narrative%20about%20violence>.
+The public version of the worksets is hosted by the [HathiTrust Research Center](http://analytics.hathitrust.org/) (HTRC) at <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionArgentina>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionBolivia>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionChile>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionColombia>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionCuba>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionEcuador>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionMexico>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionPeru>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionPuertoRico>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionUruguay>, <https://analytics.hathitrust.org/worksets/isabella/SCWAReD-UnsortedFictionVenezuela>.
 
-The `workset` directory contains multiple data files with metadata about the workset and its volumes. Details about each file, its format, and structure are included below:
+The `workset` directory contains multiple data files with metadata about the workset and its volumes. Details about each file, its format, and structure are included below.
 
-## `scwared-spanish-american-fiction-Boom.csv`
-## `scwared-spanish-american-fiction-Indigenismo.csv`
-## `scwared-spanish-american-fiction-Mexican-Rev.csv`
-## `scwared-spanish-american-fiction-Modernismo-Fiction.csv`
-## `scwared-spanish-american-fiction-Modernismo-Novels.csv`
-## `scwared-spanish-american-fiction-Narcoliterature.csv`
-## `scwared-spanish-american-fiction-Violencia.csv`
+
+
+# `scwared-unsorted-fiction-argentina.csv`
+# `scwared-unsorted-fiction-bolivia.csv`
+# `scwared-unsorted-fiction-chile.csv`
+# `scwared-unsorted-fiction-colombia.csv`
+# `scwared-unsorted-fiction-cuba.csv`
+# `scwared-unsorted-fiction-mexico.csv`
+# `scwared-unsorted-fiction-peru.csv`
+# `scwared-unsorted-fiction-puertorico.csv`
+# `scwared-unsorted-fiction-uruguay.csv`
+# `scwared-unsorted-fiction-venezuela.csv`
 
 This is a simple CSV file listing the volume ID and some additional metadata for each volume in the workset. The CSV file may be edited by removing and adding volume, and the edited file may used as the basis for a new workset. The full CSV file or simply a text file with a list of volume IDs may be uploaded to <https://analytics.hathitrust.org/uploadworkset> to create a new workset.
 
@@ -20,26 +25,29 @@ The columns in the CSV file are:
 - id (volume identifier)
 - title 
 - year (year of publication)
-- language (volume language represented as ISO-369-3 language code) 
+- language (volume language represented as ISO-369-3 language code) <!-- is this correct? -->
 - authors
 
 Example:
 
 | id | title | year | language | authors |
 |:---|:---   |:---  |:---      |:---     |
-| mdp.39015008882774 | The Buenos Aires affair / Manuel Puig. | 1973 | spa | Puig, Manuel |
-| inu.30000027285851 | La consagracion de la primavera / Alejo Carpentier. | 1989 | spa | Carpentier, Alejo 1904-1980 |
-| txu.059173026562827 | El beso de la mujer aran?a / Manuel Puig. | 1988 | spa | Puig, Manuel |
-| mdp.39015027201717 | En alg?n valle de l?grimas / Jos? Revueltas. | 1979 | spa | Revueltas, Jos? 1914-1976 |
-| uc1.32106018901717 | El lugar sin li?mites / Jose? Donoso. | 1987 | spa | Donoso, Jose? 1924- |
+| txu.059173024462719 | Una nube llamada Helena; [ensayos] | 1958 | spa | Lanuza, JoseÃÅ Luis, 1903- |
+| uc1.$b774760 | Advenimiento, | 1947 | spa | Capdevila, Arturo, 1889-1967. |
+| txu.059173026715098 | El derrumbe / | 1985 | spa | Yudicello, Lucio, 1950- |
+| uva.x000516455 | El rat√≥n; novela. | 1970 | spa | Nella Castro, Ant√≥nio. |
+| txu.059173000710656 | De antiheÃÅroes y guerras / | 1993 | spa | Mantel, A. R. (Antonio RauÃÅl) |
 
-## `scwared-spanish-american-fiction-Boom.json`
-## `scwared-spanish-american-fiction-Indigenismo.json`
-## `scwared-spanish-american-fiction-Mexican-Rev.json`
-## `scwared-spanish-american-fiction-Modernismo-Fiction.json`
-## `scwared-spanish-american-fiction-Modernismo-Novels.json`
-## `scwared-spanish-american-fiction-Narcoliterature.json`
-## `scwared-spanish-american-fiction-Violencia.json`
+# `scwared-unsorted-fiction-argentina.json`
+# `scwared-unsorted-fiction-bolivia.json`
+# `scwared-unsorted-fiction-chile.json`
+# `scwared-unsorted-fiction-colombia.json`
+# `scwared-unsorted-fiction-cuba.json`
+# `scwared-unsorted-fiction-mexico.json`
+# `scwared-unsorted-fiction-peru.json`
+# `scwared-unsorted-fiction-puertorico.json`
+# `scwared-unsorted-fiction-uruguay.json`
+# `scwared-unsorted-fiction-venezuela.json`
 
 This is a [JSON-LD](https://json-ld.org) file with some basic metadata about the workset itself, including `title`, `description`, `id`, creation date (`created`), `creator`, `contributor`, and number of volumes (`extent`). Also included is a list of workset volume IDs as persistent links to the item in the [HathiTrust Digital Library](https://hathitrust.org). Here is an example of the list of volumes:
 
@@ -84,4 +92,3 @@ xsd | http://www.w3.org/2001/XMLSchema# |
 
 
 Unlike the CSV file described above, the JSON file may not be uploaded directly in HTRC’s existing tools to create a new workset; however, the JSON file is the canonical source of metadata and volume IDs for the workset.
-
