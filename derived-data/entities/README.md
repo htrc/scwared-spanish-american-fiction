@@ -1,4 +1,12 @@
-## How we generated the entity files
+# Extracted named entities
+This directory contains the entities (or “named entities”) for 1997 volumes of English-language fiction identified by the History of Black Writing at University of Kansas as being authored by African American authors. 
+
+The entities for each of 7 worksets within the larger Spanish-American fiction set are available in two forms:
+
+- `workset-entities.zip` contains a single `.csv` file containing all the entities for all _____ volumes.
+- `workset-entities-by-volume.zip` includes the same data as a separate `.csv` file for each of the _____ volumes.
+
+## Entity files
 The entity files for each Spanish-language SCWAReD workset were generated using a custom, fine-tuned large language model, via [spaCy's Transformer](https://spacy.io/api/transformer) implementation. We benchmarked multiple Spanish-language transformer models, but ended up settling on an English-language model (`en_core_web_trf 3.3.0`) fine-tuned for our Spanish data, as it yielded the highest accuracy. We are working on a research paper detailing these findings, and will link to it here once it is published. Large language models, especially when fine-tuned for the specific data of use, generate state-of-the-art named entity recognition (NER) results with a high level of accuracy. The data was accessed and the NER pipeline was implemented using [HTRC Data Capsule](https://htrc.atlassian.net/wiki/spaces/COM/pages/43286886/HTRC+Data+Capsule+Environment) environment, with many of the books being subject to copyright, which prevents their full text from being shared and accessed directly.
 
 For more specific technical documentation, see the "Technical documentation and reproducibility" section below.
