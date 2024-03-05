@@ -2,7 +2,8 @@
 
 José Eduardo González  
 [jgonzalez2@unl.edu](jgonzalez2@unl.edu)  
-University of Nebraska-Lincoln  
+ORCID number: 0000-0002-8899-3021  
+Universidad de Nebraska-Lincoln   
 
 Spanish comprises only about 6.6% of the Hathitrust library contents[^1] and yet there are barriers that make the Hathitrust fiction in this language difficult to locate and use for literary analysis. While the volumes are identified by country of publication, they need to be differentiated into categories useful for literature scholars. This is, of course, true for all the volumes in the library, regardless of the language in which they are written, but the present project’s aim is to create organized lists of the works available for scholars interested in Spanish-language literature, specifically Spanish American fiction. With that objective in mind, I have built several worksets, some of them focusing on literary periods and genres frequently studied by scholars of Spanish American literature and others simply as a first attempt to locate, and organize around the concept of national literatures, volumes of fiction published throughout the region. In this document I describe the reasons for creating different worksets, in other words, what makes them unique in relation to literature in other languages (especially English, which is the language that has dominated the study of literature from a digital humanities perspective), and the historico-cultural relationships among some of the worksets.
 
